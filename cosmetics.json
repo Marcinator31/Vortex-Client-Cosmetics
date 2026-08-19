@@ -1,0 +1,10 @@
+{
+  "capes": [
+    {
+      "id": "vortex_blue",
+      "name": "Vortex Blue",
+      "texture": "https://raw.githubusercontent.com/Marcinator31/Vortex-Client-Cosmetics/refs/heads/main/cosmetics/vortex_blue.png",
+      "preview": "https://raw.githubusercontent.com/Marcinator31/Vortex-Client-Cosmetics/refs/heads/main/cosmetics/preview/vortex_blue.png"
+    }
+  ]
+}
