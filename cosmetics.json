@@ -1,0 +1,10 @@
+{
+  "capes": [
+    {
+      "id": "vortex_blue",
+      "name": "Vortex Blue",
+      "texture": "https://raw.githubusercontent.com/BENUTZER/REPO/main/cosmetics/vortex_blue.png",
+      "preview": "https://raw.githubusercontent.com/BENUTZER/REPO/main/cosmetics/preview/vortex_blue.png"
+    }
+  ]
+}
